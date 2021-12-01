@@ -1,0 +1,14 @@
+server:
+  port: 8080
+person:
+  lastName: dbc
+  age: 22
+  boss: false
+  birth: 2017/12/12
+  maps: {k1: v2,k2: ;2}
+  lists:
+    - lisi
+    - dbc
+  dog:
+    name: 小狗
+    age: 12
